@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geographic Origins - Met Museum</title>
+    <link rel="stylesheet" href="../css/hybrid.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v3.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+</head>
+<body>
+    <nav class="top-nav">
+        <a href="../index.html" class="back-link">← Back to Visualizations</a>
+    </nav>
+    <div class="container">
+        <h1>Art Origins: A Global Perspective</h1>
+        <div class="controls">
+            <select id="timeperiodSelect">
+                <option value="all">All Time Periods</option>
+                <option value="ancient">Ancient (Before 500 CE)</option>
+                <option value="medieval">Medieval (500-1400)</option>
+                <option value="renaissance">Renaissance (1400-1600)</option>
+                <option value="modern">Modern (1600-Present)</option>
+            </select>
+            <div class="filters"></div>
+        </div>
+        <div id="visualization"></div>
+        <div id="artwork-detail" class="artwork-detail">
+            <div class="detail-content">
+                <span class="close-button">&times;</span>
+                <div class="detail-info"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 

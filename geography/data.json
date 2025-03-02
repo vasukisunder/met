@@ -1,0 +1,1867 @@
+{
+  "metadata": {
+    "totalCountries": 25,
+    "totalArtworks": 1803,
+    "departments": [
+      "American Decorative Arts",
+      "Ancient Near Eastern Art",
+      "Arms and Armor",
+      "Asian Art",
+      "Egyptian Art",
+      "European Paintings",
+      "European Sculpture and Decorative Arts",
+      "Greek and Roman Art",
+      "Islamic Art"
+    ],
+    "generatedAt": "2025-03-02T18:01:53.805Z"
+  },
+  "countries": {
+    "Iran": {
+      "count": 273,
+      "departments": {
+        "American Decorative Arts": 83,
+        "Ancient Near Eastern Art": 4,
+        "Islamic Art": 186
+      },
+      "timePeriods": {
+        "ancient": 238,
+        "medieval": 15,
+        "renaissance": 8,
+        "modern": 11
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 325598,
+          "title": "Jar with incised decoration",
+          "date": "ca. 2800 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/hb63_102_14.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 324425,
+          "title": "Amulet",
+          "date": "3rd millennium BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/ME55_65_8.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 325020,
+          "title": "Mace head",
+          "date": "ca. 9th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/DP-29655-001.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 323957,
+          "title": "Jar",
+          "date": "ca. 1600–1200 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/ME43_89_15.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 324997,
+          "title": "Spouted pitcher",
+          "date": "ca. 1050–800 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/DP-26484-002.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 323979,
+          "title": "Pin",
+          "date": "ca. 8th–7th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/DP-25851-001.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 323976,
+          "title": "Pendant in the form of a duck",
+          "date": "ca. 8th–7th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/hb43_102_16.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 324006,
+          "title": "Bead",
+          "date": "ca. 8th–7th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/ME43_102_46.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 327344,
+          "title": "Plate",
+          "date": "1st millennium BCE (?)",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/sd1988_102_20.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 326611,
+          "title": "Openwork rattle bell",
+          "date": "ca. 9th–8th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/ME1978_514_37.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Italy": {
+      "count": 270,
+      "departments": {
+        "American Decorative Arts": 2,
+        "Ancient Near Eastern Art": 39,
+        "Asian Art": 1,
+        "European Paintings": 108,
+        "European Sculpture and Decorative Arts": 12,
+        "Greek and Roman Art": 108
+      },
+      "timePeriods": {
+        "ancient": 108,
+        "medieval": 15,
+        "renaissance": 71,
+        "modern": 36
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 324318,
+          "title": "Vessel",
+          "date": "ca. 2nd century CE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/ME54_101_3.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 325948,
+          "title": "Crossbow fibula",
+          "date": "ca. 3rd–4th century CE",
+          "image": "https://images.metmuseum.org/CRDImages/an/web-large/ME67_259_3.jpg",
+          "department": "American Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 23148,
+          "title": "Breastplate with applied stop-rib",
+          "date": "ca. 1420–40",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-12882-027.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 26677,
+          "title": "Korseke",
+          "date": "ca. 1525",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.233_001feb2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 33610,
+          "title": "Pair of Stirrups",
+          "date": "17th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-14_25_1746ab-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 26714,
+          "title": "Spear",
+          "date": "15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.291_002jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 26794,
+          "title": "Fauchard",
+          "date": "ca. 1550",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.391_001feb2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 34355,
+          "title": "Brigandine Plate",
+          "date": "1400–1450",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/29.150.90pp_001july2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 23166,
+          "title": "Elbow defense (Couter)",
+          "date": "ca. 1430–40",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/29.150.117_002Sept2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 33062,
+          "title": "Rosette",
+          "date": "dated 1565",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_207-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        }
+      ]
+    },
+    "Japan": {
+      "count": 379,
+      "departments": {
+        "Ancient Near Eastern Art": 276,
+        "Asian Art": 103
+      },
+      "timePeriods": {
+        "ancient": 140,
+        "medieval": 0,
+        "renaissance": 1,
+        "modern": 230
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 28916,
+          "title": "Sword-Hilt Collar and Pommel (Fuchigashira)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28064,
+          "title": "Knife Handle (Kozuka)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28819,
+          "title": "Sword-Hilt Collar and Pommel (Fuchigashira)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28742,
+          "title": "Sword-Hilt Collar and Pommel (Fuchigashira)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28867,
+          "title": "Sword-Hilt Collar and Pommel (Fuchigashira)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28404,
+          "title": "Knife Handle (Kozuka)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28528,
+          "title": "Sword Guard (Tsuba)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 28930,
+          "title": "Sword-Hilt Collar and Pommel (Fuchigashira)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 29483,
+          "title": "Pair of Sword-Grip Ornaments (Menuki)",
+          "date": "possibly early 17th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-38_55_62a_b-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 28772,
+          "title": "Sword-Hilt Collar and Pommel (Fuchigashira)",
+          "date": "ca. 1615–1868",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "Germany": {
+      "count": 82,
+      "departments": {
+        "Ancient Near Eastern Art": 37,
+        "European Paintings": 27,
+        "European Sculpture and Decorative Arts": 17,
+        "Greek and Roman Art": 1
+      },
+      "timePeriods": {
+        "ancient": 15,
+        "medieval": 0,
+        "renaissance": 32,
+        "modern": 29
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 25908,
+          "title": "Halberd",
+          "date": "1650–1700",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.64_001dec2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 33090,
+          "title": "Buckle",
+          "date": "dated 1530",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_113-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 26192,
+          "title": "Halberd",
+          "date": "1500–1525",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.153_002dec2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 33088,
+          "title": "Rosette",
+          "date": "1530–50",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_111-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 29388,
+          "title": "Partisan",
+          "date": "dated 1718",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/41.146_001jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 26734,
+          "title": "Partisan of Wolfgang Wilhelm of Bavaria, Count Palatine of the Rhine",
+          "date": "dated 1615",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.322_001jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 32938,
+          "title": "Seal of Frederick William, Duke of Saxony",
+          "date": "1586",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/23.240.3_001nov2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 34832,
+          "title": "Collar of Mail",
+          "date": "16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/sfma27.183.6_69953.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 26679,
+          "title": "Head of a Banner Staff",
+          "date": "18th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.235_003dec2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 34837,
+          "title": "Brayette and Buttock Defense",
+          "date": "16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/sfma27.183.12_69957.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Turkey": {
+      "count": 7,
+      "departments": {
+        "Ancient Near Eastern Art": 7
+      },
+      "timePeriods": {
+        "ancient": 7,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 0
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 30969,
+          "title": "Sword (Kilij) with Scabbard",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1513a_b_001_Mar2017.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31739,
+          "title": "Knife with Sheath",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.759ab_002june2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 30132,
+          "title": "Archer's Ring",
+          "date": "18th–19th century",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 30138,
+          "title": "Archer's Ring",
+          "date": "18th–19th century",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 32053,
+          "title": "Helmet",
+          "date": "second half 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP147162.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 22013,
+          "title": "Turban Helmet",
+          "date": "late 15th century–1st quarter 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP147295.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 32064,
+          "title": "Helmet",
+          "date": "16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP147165.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "India": {
+      "count": 32,
+      "departments": {
+        "Ancient Near Eastern Art": 26,
+        "Asian Art": 2,
+        "Islamic Art": 4
+      },
+      "timePeriods": {
+        "ancient": 29,
+        "medieval": 1,
+        "renaissance": 1,
+        "modern": 1
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 30983,
+          "title": "Sword (Talwar)",
+          "date": "18th–19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1529_001June2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31719,
+          "title": "Gauntlet Dagger",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.739_003july2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 32114,
+          "title": "Arm Guard",
+          "date": "16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.62_001July2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 30989,
+          "title": "Gauntlet Sword (Pata)",
+          "date": "18th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1535_004AA2016.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31439,
+          "title": "Dagger (Pesh-kabz)",
+          "date": "18th–19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1042_001july2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31297,
+          "title": "Chopper",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1289_001_Apr2017.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31019,
+          "title": "Sword",
+          "date": "17th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1568_001June2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31840,
+          "title": "Dagger",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.669_001june2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31849,
+          "title": "Dagger (Khanjar)",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.679_001june2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31693,
+          "title": "Knife (Kukri) with Sheath",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.713ab_003june2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "France": {
+      "count": 237,
+      "departments": {
+        "Ancient Near Eastern Art": 27,
+        "Arms and Armor": 1,
+        "European Paintings": 168,
+        "European Sculpture and Decorative Arts": 41
+      },
+      "timePeriods": {
+        "ancient": 21,
+        "medieval": 1,
+        "renaissance": 7,
+        "modern": 181
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 33253,
+          "title": "Buckle Loop",
+          "date": "14th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_78-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 33233,
+          "title": "Buckle Loop",
+          "date": "15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_58-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 33227,
+          "title": "Buckle",
+          "date": "13th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_52ab-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 33113,
+          "title": "Pendant",
+          "date": "15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_136-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 27031,
+          "title": "Partisan",
+          "date": "ca. 1710",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.412_001jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 26710,
+          "title": "Linstock",
+          "date": "17th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.285_001jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 26775,
+          "title": "Partisan",
+          "date": "ca. 1600",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.363_001jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 33112,
+          "title": "Pendant",
+          "date": "late 15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_135-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 33567,
+          "title": "Sword in 15th Century Gothic Style",
+          "date": "probably 19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-14_25_1882-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 33275,
+          "title": "Mordant",
+          "date": "13th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-20_152_52ab-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Spain": {
+      "count": 24,
+      "departments": {
+        "Ancient Near Eastern Art": 11,
+        "European Paintings": 13
+      },
+      "timePeriods": {
+        "ancient": 9,
+        "medieval": 0,
+        "renaissance": 1,
+        "modern": 12
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 25490,
+          "title": "Badge or Harness Pendant",
+          "date": "ca. 1400",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-04_3_369-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 25493,
+          "title": "Harness Pendant",
+          "date": "13th–early 15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/sf04-3-373s1.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 34142,
+          "title": "Ornament of Horse Trapping",
+          "date": "14th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-29_158_412-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 25452,
+          "title": "Harness Pendant",
+          "date": "13th–early 15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/sf04-3-330s1.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 27858,
+          "title": "Badge or Harness Pendant",
+          "date": "15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-48.5-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 25549,
+          "title": "Harness Pendant",
+          "date": "13th–early 15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/sf04-3-431s1.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 25442,
+          "title": "Badge or Harness Pendant",
+          "date": "14th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-04_3_319-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 32802,
+          "title": "Cup-Hilted Rapier",
+          "date": "17th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-25_135_31-001-2.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 679158,
+          "title": "Designs for the Decoration of a Percussion Pistol",
+          "date": "ca. 1847",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP701311.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 22009,
+          "title": "Pendant for Horse Trappings",
+          "date": "15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-04.3.429-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "China": {
+      "count": 22,
+      "departments": {
+        "Ancient Near Eastern Art": 9,
+        "Asian Art": 13
+      },
+      "timePeriods": {
+        "ancient": 12,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 5
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 32078,
+          "title": "Helmet",
+          "date": "18th–19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.8_005mar2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 27932,
+          "title": "Sword with Scabbard",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP119022.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31565,
+          "title": "Knife with Sheath",
+          "date": "18th–19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.975ab_002july2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 30226,
+          "title": "Archer's Ring",
+          "date": "17th–19th century",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 35807,
+          "title": "Arrowhead",
+          "date": "ca. 18th–19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-2011_502_11-002.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 30193,
+          "title": "Archer's Ring",
+          "date": "17th–19th century",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 24076,
+          "title": "Helmet",
+          "date": "15th–16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.184_007mar2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 31563,
+          "title": "Knife with Sheath",
+          "date": "18th–19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.972ab_004july2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 30192,
+          "title": "Ivory Archer's Ring Carved with Characters in Relief",
+          "date": "17th–19th century",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 41844,
+          "title": "Hall that Holds the Green",
+          "date": "late 19th–early 20th century",
+          "image": "https://images.metmuseum.org/CRDImages/as/web-large/30_76_264_F.jpg",
+          "department": "Asian Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "United States": {
+      "count": 29,
+      "departments": {
+        "Ancient Near Eastern Art": 5,
+        "Arms and Armor": 22,
+        "Asian Art": 1,
+        "European Paintings": 1
+      },
+      "timePeriods": {
+        "ancient": 14,
+        "medieval": 1,
+        "renaissance": 0,
+        "modern": 14
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 32894,
+          "title": "Rowel Spur (Right)",
+          "date": "late 19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-23_192_20-002.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 27229,
+          "title": "Pipe Tomahawk",
+          "date": "second half 19th century",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 27559,
+          "title": "American Longrifle",
+          "date": "ca. 1820–30",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-56_164_1-005.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 784836,
+          "title": "Percussion Longrifle",
+          "date": "ca. 1835–1840",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-2018_279ab-005.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 32845,
+          "title": "Sword and Scabbard Presented to Captain Samuel Chester Reid (1783–1861)",
+          "date": "1815",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-23_100a-005.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 309635,
+          "title": "Ivory Snowy Owl",
+          "date": "20th century",
+          "image": "",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 309639,
+          "title": "Ivory Seal",
+          "date": "20th century",
+          "image": "",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 313086,
+          "title": "Necklace",
+          "date": "19th–20th century",
+          "image": "",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 766622,
+          "title": "Maffet Ledger: Drawing",
+          "date": "ca. 1874–81",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/page80.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 314562,
+          "title": "Painting by Lunda Hoye Gill, \"Asmat Chief\"",
+          "date": "mid-20th century",
+          "image": "",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "United Kingdom": {
+      "count": 67,
+      "departments": {
+        "Ancient Near Eastern Art": 6,
+        "Arms and Armor": 1,
+        "Egyptian Art": 2,
+        "European Paintings": 39,
+        "European Sculpture and Decorative Arts": 19
+      },
+      "timePeriods": {
+        "ancient": 5,
+        "medieval": 1,
+        "renaissance": 3,
+        "modern": 49
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 32993,
+          "title": "Medal Commemorating the Coronation of George II",
+          "date": "1727",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/22.122.44_001nov2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 27862,
+          "title": "Flintlock Pistol",
+          "date": "ca. 1770",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-48_84_6-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 33976,
+          "title": "Shoe",
+          "date": "ca. 1500–1550",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP165968.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 32981,
+          "title": "Medal of British Colonization Showing Charles II and Catherine",
+          "date": "1670",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/22.122.31_001nov2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 34175,
+          "title": "Shoe for a Child",
+          "date": "16th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP165966.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 23345,
+          "title": "The Resurrection",
+          "date": "dated 1375",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-18976-009.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 313884,
+          "title": "Spear Thrower",
+          "date": "mid to late 19th century",
+          "image": "",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 591643,
+          "title": "Cast of Hatshepsut's Punt Reliefs: Reception in Punt",
+          "date": "ca. 1479–1458 B.C.",
+          "image": "",
+          "department": "Egyptian Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 591654,
+          "title": "Cast of Hatshepsut's Punt Reliefs: Reception in Punt",
+          "date": "ca. 1479–1458 B.C.",
+          "image": "",
+          "department": "Egyptian Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 435792,
+          "title": "Portrait of an Officer",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/175493.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        }
+      ]
+    },
+    "Austria": {
+      "count": 6,
+      "departments": {
+        "Ancient Near Eastern Art": 2,
+        "European Paintings": 2,
+        "European Sculpture and Decorative Arts": 2
+      },
+      "timePeriods": {
+        "ancient": 1,
+        "medieval": 0,
+        "renaissance": 1,
+        "modern": 3
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 33079,
+          "title": "Buckle",
+          "date": "ca. 1920",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 33096,
+          "title": "Buckle",
+          "date": "ca. 1920",
+          "image": "",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437004,
+          "title": "Saint Adalbert and Saint Procopius",
+          "date": "ca. 1490–1500",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164824.jpg",
+          "department": "European Paintings",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 436990,
+          "title": "The Martyrdom of Saint Lawrence; (reverse) Giving Drink to the Thirsty",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DT8702.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 191050,
+          "title": "Austrian 1 crown-piece of the 60th year of the reign of Emperor Francis Joseph",
+          "date": "1908",
+          "image": "",
+          "department": "European Sculpture and Decorative Arts",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 191307,
+          "title": "Portrait of Hans Count Wilczek",
+          "date": "20th century",
+          "image": "",
+          "department": "European Sculpture and Decorative Arts",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Egypt": {
+      "count": 8,
+      "departments": {
+        "Ancient Near Eastern Art": 1,
+        "Greek and Roman Art": 7
+      },
+      "timePeriods": {
+        "ancient": 2,
+        "medieval": 5,
+        "renaissance": 1,
+        "modern": 0
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 22212,
+          "title": "Lance Head",
+          "date": "ca. 1500",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP160618.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 243774,
+          "title": "Faience amulet in the form of a tree frog",
+          "date": "330-30 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121833.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 243747,
+          "title": "Faience amulet of Mut with double crown",
+          "date": "664–334 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121820.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 243760,
+          "title": "Faience amulet of a goddess with feline head",
+          "date": "330-30  BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121824.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 243713,
+          "title": "Lapis lazuli heart amulet",
+          "date": "664–334 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121803.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 243802,
+          "title": "Faience amulet plaque with several deities",
+          "date": "1050-900  BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121845.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 243749,
+          "title": "Faience amulet of a ram-headed Amun-re or Khnum",
+          "date": "664–334 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121821.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 243788,
+          "title": "Faience wadj papyrus column",
+          "date": "664–30 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/74514520.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "medieval"
+        }
+      ]
+    },
+    "Switzerland": {
+      "count": 10,
+      "departments": {
+        "Ancient Near Eastern Art": 1,
+        "European Paintings": 7,
+        "European Sculpture and Decorative Arts": 2
+      },
+      "timePeriods": {
+        "ancient": 2,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 6
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 29010,
+          "title": "Halberd",
+          "date": "mid-15th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/42.50.18_001jan2015.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 436844,
+          "title": "Portrait of a Man",
+          "date": "1801",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/60123.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 439766,
+          "title": "Mountain Landscape, Valais, Switzerland",
+          "date": "ca. 1838–40",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 726543,
+          "title": "Monsignor Giuseppe Spina (1756–1828)",
+          "date": "1798",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17370-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 435589,
+          "title": "A Woman, Possibly Sophia Dorothea (1687–1757), Later Queen of Prussia",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/175433.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 438628,
+          "title": "Pozzuoli and the Bay of Naples",
+          "date": "1844",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 634108,
+          "title": "The Dream of the Shepherd (Der Traum des Hirten)",
+          "date": "1896",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP318843.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 439397,
+          "title": "Oak Tree",
+          "date": "",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 194204,
+          "title": "Watch",
+          "date": "mid-17th century",
+          "image": "https://images.metmuseum.org/CRDImages/es/web-large/141814.jpg",
+          "department": "European Sculpture and Decorative Arts",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 194168,
+          "title": "Watch",
+          "date": "ca. 1630",
+          "image": "https://images.metmuseum.org/CRDImages/es/web-large/139195.jpg",
+          "department": "European Sculpture and Decorative Arts",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "South Korea": {
+      "count": 2,
+      "departments": {
+        "Ancient Near Eastern Art": 1,
+        "Asian Art": 1
+      },
+      "timePeriods": {
+        "ancient": 2,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 0
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 31582,
+          "title": "Knife with Sheath and Chopsticks",
+          "date": "19th century",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.992a-d_004july2014.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 72471,
+          "title": "Orchids in Hanging Basket",
+          "date": "early 20th century",
+          "image": "",
+          "department": "Asian Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Russia": {
+      "count": 3,
+      "departments": {
+        "Ancient Near Eastern Art": 1,
+        "European Paintings": 2
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 1
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 788908,
+          "title": "Pair of Flintlock Pistols Made for Grand Duke Constantine Pavlovich of Russia (1779–1831)",
+          "date": "ca. 1801",
+          "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-19548-001.jpg",
+          "department": "Ancient Near Eastern Art",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437558,
+          "title": "Saint George",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/EP446.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 437556,
+          "title": "Saint Elias's Fiery Ascension",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/ep1972.145.20.bw.R.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        }
+      ]
+    },
+    "Mexico": {
+      "count": 11,
+      "departments": {
+        "Arms and Armor": 11
+      },
+      "timePeriods": {
+        "ancient": 10,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 1
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 307629,
+          "title": "Spindle Whorl",
+          "date": "10th–early 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/00.5.836.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 315034,
+          "title": "Ceramic Tripod Vessel",
+          "date": "9th–12th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/1986.482_a.JPG",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 316889,
+          "title": "Copper Axe",
+          "date": "14th–early 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_64.JPG",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 307559,
+          "title": "Spindle Whorl",
+          "date": "10th–early 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/00.5.761.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 317317,
+          "title": "Flint Blade",
+          "date": "before 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_461.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 320601,
+          "title": "Sampler (Dechado)",
+          "date": "1869",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/TR.384.2.2009 front.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 317558,
+          "title": "Onyx Cylinder Vessel",
+          "date": "before 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_725.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 317276,
+          "title": "Stone Chisel",
+          "date": "before 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_410.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 317031,
+          "title": "Stone Pulidor",
+          "date": "before 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_303.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 317079,
+          "title": "Stone Pulidor",
+          "date": "before 16th century",
+          "image": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_249.jpg",
+          "department": "Arms and Armor",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Netherlands": {
+      "count": 58,
+      "departments": {
+        "European Paintings": 58
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 49
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 437044,
+          "title": "Twilight",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/ep14.40.812.bw.R.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 437403,
+          "title": "Christ and the Woman of Samaria",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145935.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 437385,
+          "title": "Man in a Turban",
+          "date": "1632",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146479.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 435633,
+          "title": "Skating at Sloten, near Amsterdam",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143154.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 437416,
+          "title": "Man in Armor (Mars?)",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145410.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 437402,
+          "title": "Woman with a Pink",
+          "date": "early 1660s",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145910.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437395,
+          "title": "The Standard Bearer (Floris Soop, 1604–1657)",
+          "date": "1654",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP121330.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437980,
+          "title": "Cypresses",
+          "date": "1889",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP130999.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437397,
+          "title": "Self-Portrait",
+          "date": "1660",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-16323-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 436929,
+          "title": "Abraham Dismissing Hagar and Ishmael",
+          "date": "1653",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143206.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "Sweden": {
+      "count": 4,
+      "departments": {
+        "European Paintings": 4
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 4
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 437923,
+          "title": "A Day in October, near Waxholm, Sweden",
+          "date": "1873",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/ep87.15.99.bw.R.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437967,
+          "title": "Mrs. John Crosby Brown (Mary Elizabeth Adams, 1842–1918)",
+          "date": "ca. 1900",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14178-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437966,
+          "title": "Mrs. Walter Rathbone Bacon (Virginia Purdy Barker, 1862–1919)",
+          "date": "1897",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DT400.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 436610,
+          "title": "The Painter Louis Joseph Maurice (1730–1820)",
+          "date": "1772",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/ep95.14.53.R.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "Greece": {
+      "count": 266,
+      "departments": {
+        "European Paintings": 5,
+        "Greek and Roman Art": 261
+      },
+      "timePeriods": {
+        "ancient": 212,
+        "medieval": 42,
+        "renaissance": 2,
+        "modern": 2
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 436576,
+          "title": "The Vision of Saint John",
+          "date": "ca. 1608–14",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17641-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 436574,
+          "title": "Portrait of an Old Man",
+          "date": "ca. 1595–1600",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24083-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 436571,
+          "title": "The Adoration of the Shepherds",
+          "date": "ca. 1612–14",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2722.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 437100,
+          "title": "The Dormition of the Virgin",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/SFMokos.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 436572,
+          "title": "Christ Healing the Blind",
+          "date": "ca. 1570",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-26505-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "renaissance"
+        },
+        {
+          "id": 703367,
+          "title": "Terracotta fragment of a kylix (drinking cup)",
+          "date": "510–490 BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DVB05750_1_ff.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "medieval"
+        },
+        {
+          "id": 252655,
+          "title": "Terracotta loom weight",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP21679b.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 251614,
+          "title": "Lead figure of a winged goddess, possibly Artemis Orthia",
+          "date": "late 7th–6th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP120858.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 254264,
+          "title": "Faience aryballos (oil flask) in the form of a hedgehog",
+          "date": "6th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP114702.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "ancient"
+        },
+        {
+          "id": 257571,
+          "title": "Bronze decorative appliqué",
+          "date": "2nd half of 4th century BCE",
+          "image": "https://images.metmuseum.org/CRDImages/gr/web-large/SF2001220.jpg",
+          "department": "Greek and Roman Art",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Belgium": {
+      "count": 2,
+      "departments": {
+        "European Paintings": 2
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 2
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 489634,
+          "title": "Comical Repast (Banquet of the Starved)",
+          "date": "ca. 1917–18",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 815112,
+          "title": "Little Denise (Denise Maréchal, later Madame Georges Béart, 1883–1956)",
+          "date": "1889",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "Ireland": {
+      "count": 2,
+      "departments": {
+        "European Paintings": 2
+      },
+      "timePeriods": {
+        "ancient": 1,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 0
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 436234,
+          "title": "Portrait of an Officer",
+          "date": "",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/175599.jpg",
+          "department": "European Paintings",
+          "timePeriod": "unknown"
+        },
+        {
+          "id": 436821,
+          "title": "Girl Building a House of Cards",
+          "date": "mid-18th century",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP162173.jpg",
+          "department": "European Paintings",
+          "timePeriod": "ancient"
+        }
+      ]
+    },
+    "Denmark": {
+      "count": 4,
+      "departments": {
+        "European Paintings": 4
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 4
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 440364,
+          "title": "Rhine Landscape",
+          "date": "ca. 1850",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 780292,
+          "title": "The Hall of Antiquities at Charlottenborg Palace, Copenhagen",
+          "date": "1830",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-15576-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 440727,
+          "title": "German Landscape with View toward a Broad Valley",
+          "date": "ca. 1829–30",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP212416.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 441768,
+          "title": "A Section of the Via Sacra, Rome (The Church of Saints Cosmas and Damian)",
+          "date": "ca. 1814–15",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP268211.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "Norway": {
+      "count": 4,
+      "departments": {
+        "European Paintings": 4
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 0,
+        "modern": 4
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 695526,
+          "title": "Moonlit View of the River Elbe at Dresden",
+          "date": "1826",
+          "image": "",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 852668,
+          "title": "Picquigny",
+          "date": "1899",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22562-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 439343,
+          "title": "Copenhagen Harbor by Moonlight",
+          "date": "1846",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17567-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        },
+        {
+          "id": 839041,
+          "title": "Study of Water and Plants",
+          "date": "1837",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19486-001.jpg",
+          "department": "European Paintings",
+          "timePeriod": "modern"
+        }
+      ]
+    },
+    "Portugal": {
+      "count": 1,
+      "departments": {
+        "European Paintings": 1
+      },
+      "timePeriods": {
+        "ancient": 0,
+        "medieval": 0,
+        "renaissance": 1,
+        "modern": 0
+      },
+      "sampleArtworkIds": [
+        {
+          "id": 437298,
+          "title": "The Presentation in the Temple",
+          "date": "ca. 1405–15",
+          "image": "https://images.metmuseum.org/CRDImages/ep/web-large/DT8826.jpg",
+          "department": "European Paintings",
+          "timePeriod": "renaissance"
+        }
+      ]
+    }
+  }
+}

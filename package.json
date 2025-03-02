@@ -1,0 +1,10 @@
+{
+  "name": "met-museum-cultures",
+  "version": "1.0.0",
+  "description": "Script to analyze cultures in Met Museum departments",
+  "main": "get_cultures.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}

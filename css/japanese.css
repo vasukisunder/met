@@ -1,0 +1,121 @@
+/* Japanese-Inspired Minimalism CSS */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+    color: #333;
+    line-height: 1.4;
+    letter-spacing: 0.03em;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 80px 40px;
+}
+
+h1 {
+    font-size: 1.2em;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 0 80px 0;
+    letter-spacing: 0.2em;
+    color: #111;
+}
+
+.visualization-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.viz-card {
+    text-decoration: none;
+    color: inherit;
+    padding: 0;
+    position: relative;
+    display: inline-block;
+    border-left: 1px solid #ddd;
+    padding-left: 20px;
+    transition: border-color 0.3s ease;
+}
+
+.viz-card:hover {
+    border-left-color: #111;
+}
+
+.viz-card h2 {
+    font-size: 0.9em;
+    font-weight: 400;
+    margin: 0 0 15px 0;
+    color: #111;
+    letter-spacing: 0.1em;
+    transition: color 0.3s ease;
+    display: inline-block;
+    position: relative;
+}
+
+.viz-card h2::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    bottom: -3px;
+    left: 0;
+    background-color: #111;
+    transform: scaleX(0);
+    transform-origin: bottom left;
+    transition: transform 0.3s ease;
+}
+
+.viz-card:hover h2::after {
+    transform: scaleX(1);
+}
+
+.viz-card:hover h2 {
+    color: #000;
+}
+
+.viz-card p {
+    font-size: 0.8em;
+    margin: 0;
+    line-height: 1.6;
+    color: #666;
+    max-width: 80%;
+}
+
+/* Subtle horizontal line */
+.viz-card::before {
+    content: "";
+    position: absolute;
+    top: -30px;
+    left: 0;
+    width: 40px;
+    height: 1px;
+    background-color: #ddd;
+}
+
+/* First card doesn't need the line */
+.viz-card:first-child::before {
+    display: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .container {
+        padding: 60px 20px;
+    }
+    
+    h1 {
+        margin-bottom: 60px;
+    }
+    
+    .visualization-grid {
+        gap: 40px;
+    }
+    
+    .viz-card p {
+        max-width: 100%;
+    }
+} 

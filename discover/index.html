@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Discovery - Met Museum</title>
+    <link rel="stylesheet" href="../css/hybrid.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <a href="../index.html" class="back-link">Back to Visualizations</a>
+    </div>
+    
+    <div class="container">
+        <h1>Art Discovery</h1>
+        <p class="subtitle">Find artworks from the Met Museum collection that match your interests</p>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Enter a keyword (e.g., flower, ocean, horse)">
+            <button id="searchButton">Search</button>
+        </div>
+        
+        <div id="loading" class="loading-indicator hidden">
+            <div class="spinner"></div>
+            <p>Searching the collection...</p>
+        </div>
+        
+        <div id="artwork-container" class="hidden">
+            <div class="artwork-display">
+                <img id="artwork-image" src="" alt="Artwork">
+                <div class="artwork-info">
+                    <h2 id="artwork-title"></h2>
+                    <p id="artwork-artist"></p>
+                    <p id="artwork-date"></p>
+                    <p id="artwork-medium"></p>
+                    <p id="artwork-department"></p>
+                    <a id="artwork-link" href="#" target="_blank" class="view-more-link">View on Met Museum Website</a>
+                </div>
+            </div>
+            
+            <div class="button-container">
+                <button id="newSearchButton">New Search</button>
+            </div>
+        </div>
+        
+        <div id="no-results" class="hidden">
+            <p>No artworks found for your search. Please try a different keyword.</p>
+            <button id="tryAgainButton">Try Again</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html> 
