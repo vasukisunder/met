@@ -820,6 +820,16 @@ function updateArtworkCount() {
     if (!countElement) {
         countElement = document.createElement('div');
         countElement.className = 'artwork-count';
+        countElement.style.position = 'fixed';
+        countElement.style.bottom = '80px'; // Position above the link count
+        countElement.style.left = '50%';
+        countElement.style.transform = 'translateX(-50%)';
+        countElement.style.fontSize = '0.8em';
+        countElement.style.color = '#333';
+        countElement.style.backgroundColor = 'rgba(250, 250, 250, 0.9)';
+        countElement.style.padding = '8px 15px';
+        countElement.style.border = '1px solid #eee';
+        countElement.style.zIndex = '10';
         document.body.appendChild(countElement);
     }
     

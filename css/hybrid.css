@@ -71,6 +71,7 @@ body:not(.container) > h1 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 /* For geography page specifically */
@@ -238,7 +239,6 @@ body:not(.container) > h1 {
     font-size: 0.8em;
     z-index: 10;
     color: #333;
-    letter-spacing: 0.1em;
     border: 1px solid #eee;
 }
 
@@ -302,7 +302,6 @@ select:focus, input:focus, button:focus {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-top: 10px;
 }
 
 .color-filter {
