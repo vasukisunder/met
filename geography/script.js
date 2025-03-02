@@ -57,9 +57,6 @@ document.addEventListener('DOMContentLoaded', () => {
         hideLoading();
         drawMap();
         setupEventListeners();
-        
-        // Display metadata
-        displayMetadata();
     })
     .catch(error => {
         console.error('Error loading data:', error);
@@ -90,21 +87,6 @@ function showError(message) {
     errorDiv.className = 'error-message';
     errorDiv.innerHTML = message;
     document.getElementById('visualization').appendChild(errorDiv);
-}
-
-// Display metadata about the dataset
-function displayMetadata() {
-    const metadataDiv = document.createElement('div');
-    metadataDiv.className = 'metadata-info';
-    metadataDiv.innerHTML = `
-        <p>Displaying data for ${metadata.totalCountries} countries with a total of ${metadata.totalArtworks} artworks</p>
-        <p>Departments included: ${metadata.departments.join(', ')}</p>
-        <p>Data generated: ${new Date(metadata.generatedAt).toLocaleDateString()}</p>
-    `;
-    
-    // Insert after the controls
-    const controls = document.querySelector('.controls');
-    controls.parentNode.insertBefore(metadataDiv, controls.nextSibling);
 }
 
 // Draw the world map
@@ -328,55 +310,99 @@ function showCountryDetail(country, data) {
     const departmentsData = Object.entries(data.departments)
         .map(([name, value]) => ({ name, value }));
     
-    // Get sample artworks if available
-    const artworkSample = data.sampleArtworkIds || [];
+    // Get sample artworks if available - limit to 3 maximum for better fit
+    let artworkSample = data.sampleArtworkIds || [];
+    if (artworkSample.length > 3) {
+        artworkSample = artworkSample.slice(0, 3);
+    }
     
-    // Create the HTML content
+    // Create the HTML content with simple row layout
     detailInfo.innerHTML = `
-        <h2>${country}</h2>
-        <p>Total Artworks: ${data.count}</p>
-        
-        <div class="detail-charts">
-            <div class="pie-chart-container">
+        <!-- Row 1: Country title and artwork count -->
+        <div class="detail-row">
+            <h2>${country}</h2>
+            <p>Total Artworks: ${data.count}</p>
+        </div>
+        <div class="geo-modal"> 
+           
+        <div class="detail-row charts-row">
+            <div class="chart-container">
                 <h3>Department Distribution</h3>
                 <div id="department-pie-chart"></div>
             </div>
-            <div class="time-chart-container">
+            <div class="chart-container">
                 <h3>Time Period Distribution</h3>
                 <div id="time-period-chart"></div>
             </div>
-        </div>
-        
+ </div>
+            <div class="geo-right">
+ <!-- Row 3: Sample artworks -->
         ${artworkSample.length > 0 ? `
-            <h3>Sample Artworks</h3>
+        <div class="detail-row">
+            <h3>Sample Artworks (${artworkSample.length} of ${data.count})</h3>
             <div class="artwork-grid">
                 ${artworkSample.map(artwork => `
                     <div class="artwork-thumbnail">
                         <img src="${artwork.image || 'https://via.placeholder.com/150?text=No+Image'}" 
                              alt="${artwork.title || 'Artwork'}" 
-                             title="${artwork.title || 'Untitled'}">
-                        <div class="artwork-info">
-                            <p class="artwork-title">${artwork.title || 'Untitled'}</p>
-                            <p class="artwork-date">${artwork.date || 'Unknown date'}</p>
+                             title="${artwork.title || 'Untitled'}"
+                             style="height: 80px; width: 100%; object-fit: cover;">
+                        <div class="artwork-info" style="padding: 4px;">
+                            <p class="artwork-title" style="font-size: 0.65em;">${artwork.title || 'Untitled'}</p>
+                            <p class="artwork-date" style="font-size: 0.6em;">${artwork.date || 'Unknown date'}</p>
                         </div>
                     </div>
                 `).join('')}
             </div>
+        </div>
         ` : ''}
         
-        <p><a href="https://www.metmuseum.org/search-results?q=${country}" target="_blank">
-            View more artworks from ${country} on the Met Museum website
-        </a></p>
+        <!-- Row 4: View more link -->
+        <div class="detail-row">
+            <a href="https://www.metmuseum.org/search-results?q=${country}" target="_blank">
+                View more artworks from ${country} on the Met Museum website
+            </a>
+        </div>
+
+       
+
+
+        </div>
+        
+        </div>
+     
+        
+       
     `;
     
-    // Show the detail view
+    // Show the detail view with inline style to ensure scrolling
     detailView.style.display = 'block';
+    detailView.style.overflowY = 'auto';
+    
+    // Prevent background scrolling
+    document.body.classList.add('modal-open');
+    document.body.style.overflow = 'hidden';
+    document.body.style.position = 'fixed';
+    document.body.style.width = '100%';
+    
+    // Reset scroll position
+    detailView.scrollTop = 0;
     
     // Create the department pie chart
     createPieChart(departmentsData, '#department-pie-chart', colorScale);
     
     // Create the time period chart
     createTimeChart(data.timePeriods, '#time-period-chart');
+    
+    // Add event listener to close button
+    const closeButton = detailView.querySelector('.close-button');
+    closeButton.onclick = function() {
+        detailView.style.display = 'none';
+        document.body.classList.remove('modal-open');
+        document.body.style.overflow = '';
+        document.body.style.position = '';
+        document.body.style.width = '';
+    };
 }
 
 // Create a pie chart

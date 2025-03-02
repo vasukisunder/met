@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-    font-size: 1.1em;
+    font-size: 1.4em;
     font-weight: 300;
     text-align: center;
     margin: 0 0 60px 0;
@@ -183,8 +183,8 @@ body:not(.container) > h1 {
 }
 
 .detail-info {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 30px;
     align-items: start;
 }
