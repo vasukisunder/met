@@ -779,26 +779,23 @@ function hideTooltip() {
 
 function showArtworkDetail(event, d) {
     const detailDiv = document.getElementById('artwork-detail');
-    const detailInfo = detailDiv.querySelector('.detail-info');
+    const detailInfo = detailDiv.querySelector('.color-palette-info');
     
     // Get color palette
     const colors = dominantColors[d.objectID];
     let paletteHTML = '';
     
     if (colors && colors.palette) {
-        paletteHTML = '<div class="color-palette">';
+        paletteHTML = '<div class="color-palette-swatches">';
         colors.palette.forEach(color => {
-            paletteHTML += `<div style="background-color: rgb(${color.join(',')}); width: 30px; height: 30px; display: inline-block; margin-right: 5px;"></div>`;
+            paletteHTML += `<div class="color-palette-swatch" style="background-color: rgb(${color.join(',')});"></div>`;
         });
         paletteHTML += '</div>';
     }
     
     detailInfo.innerHTML = `
-        <div>
-            <img src="${d.primaryImage}" alt="${d.title}">
-            ${paletteHTML}
-        </div>
-        <div class="artwork-metadata">
+        <img src="${d.primaryImage}" alt="${d.title}">
+        <div class="color-palette-metadata">
             <h2>${d.title}</h2>
             <p><strong>Date:</strong> ${d.objectDate || 'Unknown'}</p>
             <p><strong>Artist:</strong> ${d.artistDisplayName || 'Unknown'}</p>
@@ -806,6 +803,7 @@ function showArtworkDetail(event, d) {
             <p><strong>Medium:</strong> ${d.medium}</p>
             <p><strong>Dimensions:</strong> ${d.dimensions}</p>
             <p><strong>Credit:</strong> ${d.creditLine}</p>
+            ${paletteHTML}
             ${d.objectURL ? `<p><a href="${d.objectURL}" target="_blank">View on Met Museum website</a></p>` : ''}
         </div>
     `;
@@ -890,8 +888,8 @@ function dragended(event, d) {
     d.fy = null;
 }
 
-// Close detail view when clicking close button
-document.querySelector('.close-button').addEventListener('click', () => {
+// Update event listener for close button
+document.querySelector('.color-palette-close').addEventListener('click', () => {
     document.getElementById('artwork-detail').style.display = 'none';
 });
 
